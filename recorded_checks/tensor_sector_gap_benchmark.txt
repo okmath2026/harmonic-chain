@@ -1,0 +1,6 @@
+omega0=0.8, gamma=1.1
+N=  8: local_gap=1.100000e+00, full_TF_gap=9.956521e-01, min_DTF(0)=1.773715e+00
+N= 16: local_gap=1.100000e+00, full_TF_gap=1.016829e+00, min_DTF(0)=1.907614e+00
+N= 32: local_gap=1.100000e+00, full_TF_gap=1.028865e+00, min_DTF(0)=1.972617e+00
+
+STDERR:

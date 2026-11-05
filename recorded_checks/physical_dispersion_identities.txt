@@ -1,0 +1,8 @@
+PASS: 27 exact residuals are zero.
+Ordering: gamma_B < gamma_minus < gamma_plus < gamma_M for every 0<r<1.
+At gamma_B and gamma_M: C_sc/kappa = -1/360.
+At gamma_M: the stochastic scalar pole matches discrete heat through xi^6.
+omega0=1: {"omega0": "1", "r": "0.381966011250105151795413", "gamma_B": "0.955076820277325992483738", "gamma_minus": "1.08142395040841258487444", "gamma_plus": "1.46677232105658544635860", "gamma_M": "2.11474252688112823907007", "gamma_cont_xi_squared_shift_coefficient": "0.0126711983714766879148329"}
+Saved: supplementary/physical_dispersion_identities.json
+
+STDERR:

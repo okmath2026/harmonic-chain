@@ -47,4 +47,8 @@ Prepared for public code sharing on 5 November 2026 from the supplementary mater
 
 ## License
 
-No reuse license has been selected. Public availability does not by itself grant an open-source license.
+Released under the MIT License. See [LICENSE](LICENSE). Copyright (c) 2026 Qingyu Zhang.
+
+## Citation and archival release
+
+The initial archival release is **v1.0.0**. Author and version metadata are supplied in `CITATION.cff`. The Zenodo DOI will be added once the release has been archived successfully.

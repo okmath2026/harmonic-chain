@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this archived version."
+type: software
+title: "Verification code for long-wavelength energy relaxation and covariance transfer in pinned harmonic chains"
+version: 1.0.0
+license: MIT
+date-released: "2026-11-05"
+authors:
+  - family-names: Zhang
+    given-names: Qingyu
+    affiliation: "School of Physics and Electronic Engineering, Jiangsu University"
+repository-code: "https://github.com/okmath2026/harmonic-chain"
+url: "https://github.com/okmath2026/harmonic-chain"
+abstract: "Supplementary verification code and recorded computational outputs for a theoretical study of pinned harmonic chains. The package includes symbolic coefficient calculations, deterministic quadrature, finite-dimensional covariance matrix checks, figure-generation scripts, recorded outputs, dependency information and reproduction instructions. The scripts do not constitute trajectory simulations or numerical tests of deterministic long-time comparison theorems."
+keywords:
+  - energy relaxation
+  - harmonic chains
+  - rotational noise
+  - scalar dispersion
+  - doubling map
+  - reproducibility

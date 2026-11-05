@@ -1,0 +1,167 @@
+[
+  {
+    "path": "README.txt",
+    "bytes": 5903,
+    "sha256": "5d93e27855109a69a0a88d41688efddbc5b23c17ec42ec8a621852d0852cd733"
+  },
+  {
+    "path": "environment_versions.json",
+    "bytes": 112,
+    "sha256": "38a0196725ec29f6715ba1907404dc9375dfb2e2b1b8d00ecb8dfdf0f2f0e35a"
+  },
+  {
+    "path": "fig_finite_size_einstein.pdf",
+    "bytes": 24344,
+    "sha256": "621e49f6a10bae21a67fdee6c02be754dd69437c5ad20f18db6a6923f5ccfe8a"
+  },
+  {
+    "path": "fig_scalar_coefficients.pdf",
+    "bytes": 26689,
+    "sha256": "eec80ee1e9bc94ad6b46374665ea8fb078e69753de9291727341d8050da975bd"
+  },
+  {
+    "path": "make_fig_finite_size_einstein.py",
+    "bytes": 3218,
+    "sha256": "32e085c106b04ad0e82c68c7b6dcd8de8880c7241468de9c2c0ca9f04d5d6f09"
+  },
+  {
+    "path": "make_fig_scalar_coefficients.py",
+    "bytes": 6955,
+    "sha256": "3f74a209b31cf9d2489ec2e627228715ad5ccc780ada7a45f8d801b29a3c931c"
+  },
+  {
+    "path": "recorded_checks/exact_normalization_check.txt",
+    "bytes": 480,
+    "sha256": "e05c4e37d0ac03333e1e5f804bb512a39badff5ba5519ee8027fc8d6f7ff7efe"
+  },
+  {
+    "path": "recorded_checks/physical_dispersion_identities.txt",
+    "bytes": 604,
+    "sha256": "7d5d68c5f4539123c2f32c3463e11a7f21c9daf066b15f7a7db2c45ded8824a8"
+  },
+  {
+    "path": "recorded_checks/run_summary.json",
+    "bytes": 1069,
+    "sha256": "9149241baaf3ccf47536b51afc2ec78b3775cda4ac04ad60c16681230769632f"
+  },
+  {
+    "path": "recorded_checks/scalar_eigenvector_check.txt",
+    "bytes": 200,
+    "sha256": "572e660124e02adf20451fbb87078e3989d9a47d5e6e21382b8cadada5b09a5c"
+  },
+  {
+    "path": "recorded_checks/scalar_recursion_check.txt",
+    "bytes": 127,
+    "sha256": "f39064e61ed2053c3c4c05b9154b3e299db24e9c6a01578528d034836492a801"
+  },
+  {
+    "path": "recorded_checks/sixth_order_scalar_benchmark.txt",
+    "bytes": 1631,
+    "sha256": "193eeed42e0b28345dfbddf5498d44109de6b3c509ad75c2082e19997abab0f6"
+  },
+  {
+    "path": "recorded_checks/tensor_sector_gap_benchmark.txt",
+    "bytes": 274,
+    "sha256": "1c08d64482e8a50e0c56260632fd98a66e06dd7b9aeae276a6986344ca4915d4"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 36,
+    "sha256": "d5ebadbd53a011268066a9f468c7262bf0714bc910af3a828c64c92040694b03"
+  },
+  {
+    "path": "run_checks.py",
+    "bytes": 2744,
+    "sha256": "b4f16c55237d441bdc934946aea65e7dd7a00626abff6ef4c1598dfe7d9ab10a"
+  },
+  {
+    "path": "supplementary/comparison_constant_budget.json",
+    "bytes": 2048,
+    "sha256": "6d81133377d2971f88457738fb74277996ab2ac1648f055f8dc566e7a463f14a"
+  },
+  {
+    "path": "supplementary/comparison_constant_budget.py",
+    "bytes": 2533,
+    "sha256": "f24723eda7806cda320398e822cc34163cc49d092f41857fb9da4d30d68e5567"
+  },
+  {
+    "path": "supplementary/exact_normalization_check.json",
+    "bytes": 487,
+    "sha256": "94595371a1ca210bedbf02c26f1e8c80a237394a1de0ec22d75d7cc04d643f8e"
+  },
+  {
+    "path": "supplementary/exact_normalization_check.py",
+    "bytes": 2271,
+    "sha256": "b11255ec620bb141e7372a7bc5ca65ece03b65a4de19968e02e7c6eef0319d2e"
+  },
+  {
+    "path": "supplementary/independent_scalar_matrix_audit.json",
+    "bytes": 33697,
+    "sha256": "6edd520dc299088d74dda9a0cbf267646aa236632f9c69686ccdb2c7420e26ac"
+  },
+  {
+    "path": "supplementary/independent_scalar_matrix_audit.py",
+    "bytes": 18026,
+    "sha256": "75c44a2989739e966fa01ff914140574ab2945200a82ff3c0fa65d242cf0dfc5"
+  },
+  {
+    "path": "supplementary/physical_dispersion_identities.json",
+    "bytes": 4930,
+    "sha256": "a06a2e28e6b99bc7239c0c318a5d5a89a1848d9e33d34aab89352fb8125ddc6b"
+  },
+  {
+    "path": "supplementary/physical_dispersion_identities.py",
+    "bytes": 9001,
+    "sha256": "06d428dbbcf3f7ce1927faaf156ab58c5ac1e27778d39148f42774290683a746"
+  },
+  {
+    "path": "supplementary/prepared_mode_matrix_check.json",
+    "bytes": 8329,
+    "sha256": "97a8e19a757d19024da11c1080f3bae67348113ef9aeabc6b225f5a66435e1f8"
+  },
+  {
+    "path": "supplementary/prepared_mode_matrix_check.py",
+    "bytes": 10142,
+    "sha256": "aae6732515d7f6dc11719141b3c68e4e89a376bbccc66060330a21fdbe0a4804"
+  },
+  {
+    "path": "supplementary/scalar_eigenvector_check.json",
+    "bytes": 201,
+    "sha256": "8d92bc88a1e02ab34459ee8fc73d9842a0ff84d7ee67bdb078e30791c1e59278"
+  },
+  {
+    "path": "supplementary/scalar_eigenvector_check.py",
+    "bytes": 1469,
+    "sha256": "34cac8877ddd091828695fba3cf05b11e9d1b1eec697241d02b577cd18987b0b"
+  },
+  {
+    "path": "supplementary/scalar_recursion_check.json",
+    "bytes": 5881,
+    "sha256": "d04893e611a419086f8b85d832ee3b3253e9dc59a348237d8d57bfec9fea3383"
+  },
+  {
+    "path": "supplementary/scalar_recursion_check.py",
+    "bytes": 3910,
+    "sha256": "fbb6baa6310df6d2f49df92796b601af4645c6556590b94b20854bcc3b36b863"
+  },
+  {
+    "path": "supplementary/sixth_order_scalar_benchmark.py",
+    "bytes": 2981,
+    "sha256": "41200d580d1a45c81fa13516c8029013cd26c128b0aacdf3dc7acc9106453435"
+  },
+  {
+    "path": "supplementary/telegraph_order_check.json",
+    "bytes": 1361,
+    "sha256": "3181e1d61c2e21b87e11387049e0adbeb7014c3cea429fe329c1c029e4510946"
+  },
+  {
+    "path": "supplementary/telegraph_order_check.py",
+    "bytes": 4052,
+    "sha256": "fe554486e7d47790551512ebc712f7f9a6888b7dd00423ee13a18da4035dd094"
+  },
+  {
+    "path": "supplementary/tensor_sector_gap_benchmark.py",
+    "bytes": 2534,
+    "sha256": "0a04a982857daf341dbc8b5d2a6fbd0c4b0f1b49fbc10f45ec6d7d9b61398111"
+  }
+]

@@ -1,5 +1,7 @@
 # Harmonic-chain verification code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23973273.svg)](https://doi.org/10.5281/zenodo.23973273)
+
 Supplementary code and recorded computational outputs for **Long-wavelength energy relaxation and covariance transfer in pinned harmonic chains**, by Qingyu Zhang.
 
 This repository contains the computational supplement. The manuscript, proof appendices, submission correspondence and internal review records are not included.
@@ -51,4 +53,6 @@ Released under the MIT License. See [LICENSE](LICENSE). Copyright (c) 2026 Qingy
 
 ## Citation and archival release
 
-The initial archival release is **v1.0.0**. Author and version metadata are supplied in `CITATION.cff`. The Zenodo DOI will be added once the release has been archived successfully.
+The fixed archival release is **v1.0.0**, preserved by Zenodo at **https://doi.org/10.5281/zenodo.23973273**. Author and version metadata are supplied in `CITATION.cff`. The archived source corresponds to release commit `3615a3f876f0faacf98cb6d38eecd9892193c47f`; later DOI-backlink documentation on the main branch does not change that archived snapshot.
+
+Suggested citation: Zhang, Q. (2026). *Verification code for long-wavelength energy relaxation and covariance transfer in pinned harmonic chains* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23973273

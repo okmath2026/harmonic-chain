@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite this archived version."
 type: software
+doi: "10.5281/zenodo.23973273"
 title: "Verification code for long-wavelength energy relaxation and covariance transfer in pinned harmonic chains"
 version: 1.0.0
 license: MIT

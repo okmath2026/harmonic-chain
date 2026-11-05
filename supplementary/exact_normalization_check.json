@@ -1,0 +1,16 @@
+{
+  "kind": "exact symbolic identities; no stochastic simulation",
+  "N": 3,
+  "omega_0_squared": 1,
+  "beta": 1,
+  "active_current_variance": "3/4",
+  "total_energy_variance": "6",
+  "D_N_lat": "1/4",
+  "reference_diffusivity": "1/(8*gamma)",
+  "P_cos": "0",
+  "P_cos_squared": "cos(pi*theta)**2",
+  "complete_fast_variance": "sigma**2/2",
+  "matched_rotational_rate": "sigma**2/4",
+  "matched_diffusivity": "1/(2*sigma**2)",
+  "status": "all exact assertions passed"
+}

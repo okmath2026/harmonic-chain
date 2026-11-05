@@ -1,0 +1,10 @@
+{
+  "normalization": "d_k=1; Delta!=0; secular equation supplies mean(D_l)=1",
+  "four_equation_residuals": [
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "local_determinant_minus_Delta": "0"
+}

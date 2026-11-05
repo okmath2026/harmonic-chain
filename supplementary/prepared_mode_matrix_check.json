@@ -1,0 +1,192 @@
+{
+  "scope": "Finite-dimensional arithmetic checks of S7; no trajectories or Monte Carlo.",
+  "candidate": "Secular slow root and explicit S7 Fourier reconstruction.",
+  "independent_checks": "Real-space planar Ito generator, left-bond local energy, and Gaussian positive definiteness.",
+  "all_passed": true,
+  "cases": [
+    {
+      "parameters": {
+        "N": 32,
+        "k": 1,
+        "omega0": 1.0,
+        "gamma": 0.7,
+        "beta": 2.0,
+        "amplitude": 0.2,
+        "phase": 0.37
+      },
+      "slow_root": -0.010555681214283899,
+      "secular_residual_70_digits": 1.8111358157653425e-71,
+      "initial_guess_diffusivity": 0.27283286517857924,
+      "local_denominator_margin": 1.932372800690997,
+      "energy_amplitude_formula_real_imag": [
+        0.996522869502473,
+        -0.026916284462653057
+      ],
+      "energy_amplitude_real_space_real_imag": [
+        0.9965228695024726,
+        -0.026916284462657085
+      ],
+      "normalized_whitened_frobenius_norm": 1.0107798929036915,
+      "normalized_whitened_operator_norm": 0.09061691184397287,
+      "sqrtN_times_normalized_operator_norm": 0.5126066628404544,
+      "prepared_min_eigenvalue_physical": 0.09750875069684271,
+      "prepared_min_eigenvalue_whitened": 0.48210398358513645,
+      "maximum_asserted_error": 7.435737999660225e-15,
+      "absolute_error_tolerance": 1e-09,
+      "errors": {
+        "bilinear_covariance_symmetry_fro": 3.841090859588188e-16,
+        "direct_whitened_formula_fro": 2.3697423992004257e-15,
+        "physical_ito_eigenmatrix_relative_fro": 7.123769198673308e-15,
+        "left_bond_energy_formula_abs": 4.0524343399810534e-15,
+        "normalized_energy_amplitude_abs": 4.0597793520060504e-15,
+        "prepared_covariance_imaginary_max": 0.0,
+        "prepared_covariance_symmetry_fro": 5.564874408269845e-16,
+        "prepared_initial_energy_profile_max": 1.5543122344752192e-15,
+        "prepared_initial_complex_mode_abs": 6.654467991231419e-16,
+        "zero_wave_identity_fro": 7.435737999660225e-15,
+        "zero_wave_direct_whitening_fro": 6.784940303754115e-15,
+        "zero_wave_formula_energy_amplitude_abs": 1.110223359294181e-16,
+        "zero_wave_physical_energy_amplitude_abs": 4.272659627045017e-15
+      },
+      "passed": true
+    },
+    {
+      "parameters": {
+        "N": 32,
+        "k": 1,
+        "omega0": 1.0,
+        "gamma": 1.0,
+        "beta": 2.0,
+        "amplitude": 0.2,
+        "phase": 0.37
+      },
+      "slow_root": -0.007360400537770226,
+      "secular_residual_70_digits": 9.055679078826712e-72,
+      "initial_guess_diffusivity": 0.19098300562500545,
+      "local_denominator_margin": 4.0040904218006155,
+      "energy_amplitude_formula_real_imag": [
+        0.9965260474282664,
+        -0.026916456657885356
+      ],
+      "energy_amplitude_real_space_real_imag": [
+        0.9965260474282658,
+        -0.026916456657889366
+      ],
+      "normalized_whitened_frobenius_norm": 1.0068356806696275,
+      "normalized_whitened_operator_norm": 0.08980484202804041,
+      "sqrtN_times_normalized_operator_norm": 0.5080129022513123,
+      "prepared_min_eigenvalue_physical": 0.09753170185974155,
+      "prepared_min_eigenvalue_whitened": 0.48219240522448553,
+      "maximum_asserted_error": 8.992574183018064e-15,
+      "absolute_error_tolerance": 1e-09,
+      "errors": {
+        "bilinear_covariance_symmetry_fro": 2.287892693698703e-16,
+        "direct_whitened_formula_fro": 2.3320006005511565e-15,
+        "physical_ito_eigenmatrix_relative_fro": 8.992574183018064e-15,
+        "left_bond_energy_formula_abs": 4.0656234143982705e-15,
+        "normalized_energy_amplitude_abs": 4.054389633811111e-15,
+        "prepared_covariance_imaginary_max": 0.0,
+        "prepared_covariance_symmetry_fro": 4.998259538696002e-16,
+        "prepared_initial_energy_profile_max": 1.3322676295501878e-15,
+        "prepared_initial_complex_mode_abs": 4.0245584642661925e-16,
+        "zero_wave_identity_fro": 7.417178946985062e-15,
+        "zero_wave_direct_whitening_fro": 6.7590819517466885e-15,
+        "zero_wave_formula_energy_amplitude_abs": 1.110223359294181e-16,
+        "zero_wave_physical_energy_amplitude_abs": 4.251706248310154e-15
+      },
+      "passed": true
+    },
+    {
+      "parameters": {
+        "N": 64,
+        "k": 1,
+        "omega0": 1.0,
+        "gamma": 0.7,
+        "beta": 2.0,
+        "amplitude": 0.2,
+        "phase": 0.37
+      },
+      "slow_root": -0.0026319354242547765,
+      "secular_residual_70_digits": 1.8111358157653425e-71,
+      "initial_guess_diffusivity": 0.2728328651786465,
+      "local_denominator_margin": 1.9529601276541104,
+      "energy_amplitude_formula_real_imag": [
+        0.9991288382670527,
+        -0.01354005566356379
+      ],
+      "energy_amplitude_real_space_real_imag": [
+        0.9991288382670527,
+        -0.013540055663571037
+      ],
+      "normalized_whitened_frobenius_norm": 1.0026671726261647,
+      "normalized_whitened_operator_norm": 0.0628980151446547,
+      "sqrtN_times_normalized_operator_norm": 0.5031841211572377,
+      "prepared_min_eigenvalue_physical": 0.09796244428298828,
+      "prepared_min_eigenvalue_whitened": 0.48746221222229563,
+      "maximum_asserted_error": 1.6456462205676968e-14,
+      "absolute_error_tolerance": 1e-09,
+      "errors": {
+        "bilinear_covariance_symmetry_fro": 3.0095679468357413e-16,
+        "direct_whitened_formula_fro": 8.001053824152386e-15,
+        "physical_ito_eigenmatrix_relative_fro": 1.5108285730745823e-14,
+        "left_bond_energy_formula_abs": 7.2476746826311e-15,
+        "normalized_energy_amplitude_abs": 7.265134510326242e-15,
+        "prepared_covariance_imaginary_max": 0.0,
+        "prepared_covariance_symmetry_fro": 8.453185392779177e-16,
+        "prepared_initial_energy_profile_max": 1.7763568394002505e-15,
+        "prepared_initial_complex_mode_abs": 1.9053550706285533e-15,
+        "zero_wave_identity_fro": 1.6456462205676968e-14,
+        "zero_wave_direct_whitening_fro": 1.2676191972131458e-14,
+        "zero_wave_formula_energy_amplitude_abs": 2.220473835241174e-16,
+        "zero_wave_physical_energy_amplitude_abs": 7.35931714752605e-15
+      },
+      "passed": true
+    },
+    {
+      "parameters": {
+        "N": 64,
+        "k": 1,
+        "omega0": 1.0,
+        "gamma": 1.0,
+        "beta": 2.0,
+        "amplitude": 0.2,
+        "phase": 0.37
+      },
+      "slow_root": -0.0018405858615577234,
+      "secular_residual_70_digits": 9.055679078826712e-72,
+      "initial_guess_diffusivity": 0.19098300562505258,
+      "local_denominator_margin": 4.000907608860832,
+      "energy_amplitude_formula_real_imag": [
+        0.9991290357766902,
+        -0.013540061020871831
+      ],
+      "energy_amplitude_real_space_real_imag": [
+        0.9991290357766902,
+        -0.013540061020879037
+      ],
+      "normalized_whitened_frobenius_norm": 1.0017023176592557,
+      "normalized_whitened_operator_norm": 0.06275522975750536,
+      "sqrtN_times_normalized_operator_norm": 0.5020418380600429,
+      "prepared_min_eigenvalue_physical": 0.09796676342546097,
+      "prepared_min_eigenvalue_whitened": 0.48747758393717444,
+      "maximum_asserted_error": 1.909459200365077e-14,
+      "absolute_error_tolerance": 1e-09,
+      "errors": {
+        "bilinear_covariance_symmetry_fro": 3.0571285802299656e-16,
+        "direct_whitened_formula_fro": 7.979378333557174e-15,
+        "physical_ito_eigenmatrix_relative_fro": 1.909459200365077e-14,
+        "left_bond_energy_formula_abs": 7.206041319207657e-15,
+        "normalized_energy_amplitude_abs": 7.206224481567873e-15,
+        "prepared_covariance_imaginary_max": 0.0,
+        "prepared_covariance_symmetry_fro": 8.103729450638274e-16,
+        "prepared_initial_energy_profile_max": 1.7763568394002505e-15,
+        "prepared_initial_complex_mode_abs": 1.8441277330486033e-15,
+        "zero_wave_identity_fro": 1.6450847866995234e-14,
+        "zero_wave_direct_whitening_fro": 1.2666706445827222e-14,
+        "zero_wave_formula_energy_amplitude_abs": 1.1108346381171246e-18,
+        "zero_wave_physical_energy_amplitude_abs": 7.368396746097626e-15
+      },
+      "passed": true
+    }
+  ]
+}

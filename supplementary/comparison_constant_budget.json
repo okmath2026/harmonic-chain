@@ -1,0 +1,56 @@
+{
+  "scope": "Evaluation of the analytic upper bound and stochastic Taylor signal; no trajectory data and no numerical test of either deterministic theorem.",
+  "parameters": {
+    "omega0": 1,
+    "sigma": 2,
+    "gamma": 1,
+    "N": 32,
+    "k": 1,
+    "a": "1/4",
+    "T": 1,
+    "epsilon": "N^-3"
+  },
+  "values": {
+    "C_T4": {
+      "exact": "472/3 + 212*sqrt(5)/3",
+      "decimal_50": "315.34880374331847187958160592367685397113703074588"
+    },
+    "C_4": {
+      "exact": "524*sqrt(5)/3 + 1462/3",
+      "decimal_50": "877.89987340329660030613566747172958245696134014548"
+    },
+    "M_gamma": {
+      "exact": "sqrt(5)/4 + 5/4",
+      "decimal_50": "1.8090169943749474241022934171828190588601545899029"
+    },
+    "C_A": {
+      "exact": "sqrt(13)",
+      "decimal_50": "3.6055512754639892931192212674704959462512965738452"
+    },
+    "c_end": {
+      "exact": "4 + 12*sqrt(26)",
+      "decimal_50": "65.188234163113417960338689308273383874765251353195"
+    },
+    "c_time": {
+      "exact": "382*sqrt(130)/3 + 1091*sqrt(26)/3",
+      "decimal_50": "3306.1668044028117766201665935362857535614714632984"
+    },
+    "momentum_law_mode_bound": {
+      "exact": "1/32768 + 191*sqrt(130)/192 + 279305*sqrt(26)/98304",
+      "decimal_50": "25.829925506154192906776511615527838783499309872963"
+    },
+    "initial_mode_amplitude": {
+      "exact": "1/8",
+      "decimal_50": "0.12500000000000000000000000000000000000000000000000"
+    },
+    "quartic_stochastic_rate_signal": {
+      "exact": "pi**4*(-225 + 101*sqrt(5))/31457280",
+      "decimal_50": "0.0000026099772255394985788371982758749528332190949487801"
+    },
+    "epsilon": {
+      "exact": "1/32768",
+      "decimal_50": "0.000030517578125000000000000000000000000000000000000000"
+    }
+  },
+  "interpretation": "The momentum-law comparison bound exceeds the initial mode amplitude at these parameters. It gives no useful finite-size resolution guarantee. This is not evidence that the actual dynamical discrepancy is large."
+}

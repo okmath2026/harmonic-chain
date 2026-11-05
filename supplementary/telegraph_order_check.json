@@ -1,0 +1,53 @@
+{
+  "model": {
+    "omega0_squared": "1/2",
+    "gamma": "1",
+    "r": "1/2"
+  },
+  "exact_xi_coefficients": {
+    "2": "-1/4",
+    "4": "0",
+    "6": "-1/1440",
+    "8": "-127/1161216"
+  },
+  "M": "1/12",
+  "eta4_coefficient": "-121/165888",
+  "telegraph_eta4_defect": "-1/165888",
+  "matrix_checks": [
+    {
+      "N": 32,
+      "xi_coefficients": [
+        -0.24999999982537705,
+        -2.1059046706982387e-08,
+        -0.0006941286423357404,
+        -0.0001104647786019033
+      ],
+      "absolute_differences": [
+        1.746229549848266e-10,
+        2.1059046706982387e-08,
+        3.1580210870408177e-07,
+        1.0966679317093086e-06
+      ]
+    },
+    {
+      "N": 64,
+      "xi_coefficients": [
+        -0.2500000000000001,
+        -3.9031278209478153e-17,
+        -0.0006944444444430276,
+        -0.00010936811070580302
+      ],
+      "absolute_differences": [
+        1.1102230246251565e-16,
+        3.9031278209478153e-17,
+        1.4168353990040572e-15,
+        3.560902115708198e-14
+      ]
+    }
+  ],
+  "weak_pinning": {
+    "gamma_B_over_2sqrtomega": "1 - 2*w/3 + w**2/16 + O(w**3)",
+    "gamma_M_over_2sqrtomega": "1 + w**2/16 + O(w**3)"
+  },
+  "scope": "Exact algebraic integral recurrence; floating-point matrix comparisons are arithmetic checks, not rigorous numerical enclosures."
+}
